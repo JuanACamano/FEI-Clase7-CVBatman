@@ -1,0 +1,47 @@
+#batman{
+  display: flex;
+  margin: auto;
+}
+
+h1 {
+    background-color:#C4C4C4;
+    color: #005677;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    text-align: center;
+    letter-spacing: 10px;
+  }
+
+  .subtitle {
+font-family:'Times New Roman', Times, serif;
+color: #005677 ;
+background-color:#C4C4C4;
+font-weight: 700;
+font-size: 20px;
+line-height: 16.94px;
+  }
+
+ .datos {
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;
+font-weight: bold;
+}
+
+dt {
+  font-weight: bold
+}
+
+footer {
+  padding: 3px;
+  background-color: #005677;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+}
+#abajo {
+font-family: 'Times New Roman', Times, serif;
+font-style: Bold;
+font-size: 20px;
+line-height: 17px;
+Line-height: 85%;
+}
